@@ -4,21 +4,21 @@
     "description": "About SkinCare",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev":"node --watch --env-file=.env index"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node --watch --env-file=.env index"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/AshishIT611/GLOWDERMA.git"
+        "type": "git",
+        "url": "https://github.com/AshishIT611/GLOWDERMA.git"
     },
     "keywords": [],
     "author": "Ashish Yadav",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/AshishIT611/GLOWDERMA.git/issues"
+        "url": "https://github.com/AshishIT611/GLOWDERMA.git/issues"
     },
     "homepage": "https://github.com/AshishIT611/GLOWDERMA#readme",
     "dependencies": {
-      "express": "^4.21.2"
+        "express": "^4.21.2"
     }
-  }
+}
