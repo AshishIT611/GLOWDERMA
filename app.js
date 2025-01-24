@@ -71,6 +71,7 @@ app.use(express.json());
 const PORT = 5000;
 
 
+
 let products=[]
 app.get("/products",(req,res)=>{
     res.json(products);
